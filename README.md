@@ -20,7 +20,7 @@ sweetbyte-render/
 
 ---
 
-## 🍩 Project 1 — Donut Scene (2024)
+## 🍩 Project 1 — Donut Scene
 
 ![Donut Demo](https://github.com/7amitesh/sweetbyte-render/blob/main/blend1.gif?raw=true)
 
